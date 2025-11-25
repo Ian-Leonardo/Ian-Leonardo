@@ -37,7 +37,7 @@ I'm Ian Leonardo, a Computer Science student, Content Creator and future full-st
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Aws" width="40px" style="padding-right:10px;" src="https://commons.wikimedia.org/wiki/Special:FilePath/AWS_Simple_Icons_AWS_Cloud.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/000000" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/github/ffffff" />
 
 <br />
 
