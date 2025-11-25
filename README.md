@@ -2,18 +2,26 @@
 
 **`Digital Craftsman (Developer & Creator)`**
 
-I am Ian Leonardo, a Computer Science student, Content Creator and future full-stack developer. I have a polymath profile and enjoy learning beyond my main specialization, exploring areas such as software architecture, data, cloud, networks, and modern development practices.I always aim to understand the bigger picture, connect different disciplines, and create functional, clean, and efficient solutions.My goal is to become a complete and versatile professional, fully prepared for real-world challenges.
+I'm Ian Leonardo, a Computer Science student, Content Creator and future full-stack developer. I have a polymath profile and enjoy learning beyond my main specialization, exploring areas such as software architecture, data, cloud, networks, and modern development practices.I always aim to understand the bigger picture, connect different disciplines, and create functional, clean, and efficient solutions.My goal is to become a complete and versatile professional, fully prepared for real-world challenges.
 
    <p align="left">
-      <a href="https://www.youtube.com/@PcdCode">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@PcdCode">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p>
+  <a href="https://www.instagram.com/pcd.code">
+    <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.youtube.com/@PcdCode">
+    <img alt="YouTube" title="YouTube" src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+
+  <a href="mailto:pcdcodee@gmail.com">
+    <img alt="Gmail" title="Email" src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/ian-leonardo-59b19137a">
+    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
 
 ---
 
@@ -26,8 +34,8 @@ I am Ian Leonardo, a Computer Science student, Content Creator and future full-s
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Aws" width="40px" style="padding-right:10px;" src="https://commons.wikimedia.org/wiki/Special:FilePath/AWS_Simple_Icons_AWS_Cloud.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
 #
