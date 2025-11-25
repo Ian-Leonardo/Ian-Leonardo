@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer & Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 600k subscribers.
+I am Ian Leonardo, a Computer Science student, Content Creator and future full-stack developer. I have a polymath profile and enjoy learning beyond my main specialization, exploring areas such as software architecture, data, cloud, networks, and modern development practices.I always aim to understand the bigger picture, connect different disciplines, and create functional, clean, and efficient solutions.My goal is to become a complete and versatile professional, fully prepared for real-world challenges.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
