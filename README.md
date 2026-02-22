@@ -2,9 +2,10 @@
 
 **`Developer & Creator Content`**
 
-I'm Ian Leonardo, a Computer Science student, Content Creator and future Back-end developer. I have a polymath profile and enjoy learning beyond my main specialization, exploring areas such as software architecture, data, cloud, networks, and modern development practices.I always aim to understand the bigger picture, connect different disciplines, and create functional, clean, and efficient solutions.My goal is to become a complete and versatile professional, fully prepared for real-world challenges.
+I'm Ian Leonardo, a Computer Science student and Back-end Developer specializing in the Java ecosystem. >
+I have a polymath profile and enjoy exploring Software Architecture, Cloud Infrastructure (AWS), and Distributed Systems. I always aim to connect different disciplines to create functional, clean, and efficient solutions. My goal is to build high-scale systems prepared for real-world challenges.
 
-**Extra:** freelance experience
+**Extra:** Freelance experience | Content Creator"
 
 **Languages:** Portuguese (native), English (beginner/intermediate)
 
