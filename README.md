@@ -5,7 +5,7 @@
 I'm Ian Leonardo, a Computer Science student and Back-end Developer specializing in the Java ecosystem.
 I have a polymath profile and enjoy exploring Software Architecture, Cloud Infrastructure (AWS), and Distributed Systems. I always aim to connect different disciplines to create functional, clean, and efficient solutions. My goal is to build high-scale systems prepared for real-world challenges.
 
-**Extra:** Freelance experience | Content Creator
+**Extra:** Freelance experience(Development Web) | Content Creator
 
 **Languages:** Portuguese (native), English (intermediate)
 
