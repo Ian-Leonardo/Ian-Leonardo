@@ -2,8 +2,7 @@
 
 **`Developer & Creator Content`**
 
-I'm Ian Leonardo, a Computer Science student and Back-end Developer specializing in the Java ecosystem.
-I have a polymath profile and enjoy exploring Software Architecture, Cloud Infrastructure (AWS), and Distributed Systems. I always aim to connect different disciplines to create functional, clean, and efficient solutions. My goal is to build high-scale systems prepared for real-world challenges.
+Computer Science student and Dev Back-end in Progress.
 
 **Extra:** Freelance experience | Content Creator
 
@@ -30,6 +29,4 @@ I have a polymath profile and enjoy exploring Software Architecture, Cloud Infra
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
 </p>
