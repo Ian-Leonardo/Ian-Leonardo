@@ -11,19 +11,17 @@ I have a polymath profile and enjoy exploring Software Architecture, Cloud Infra
 
   ### 📱 Social Midia:
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ian-pcdcode">
-    <img alt="LinkedIn" title="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a><a href="https://www.instagram.com/iannvdk">
-    <img alt="Instagram" title="Instagram" src="https://custom-icon-badges.demolab.com/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a><a href="https://www.youtube.com/@iannvdk">
-    <img alt="YouTube" title="YouTube" src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-</p>
+<div align="left">
+<div align="left">
+  <a href="https://www.instagram.com/iannvdk._/" target="_blank"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="mailto:pcdcodee@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://www.linkedin.com/in/ian-pcdcode" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.youtube/iannvdk" target="_blank"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+</div>
+</div>
   
   ### 🧰 Languages and Tools:
 
-**Languages & Frameworks**
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
