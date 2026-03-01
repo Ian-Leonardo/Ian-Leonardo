@@ -7,7 +7,7 @@ I have a polymath profile and enjoy exploring Software Architecture, Cloud Infra
 
 **Extra:** Freelance experience | Content Creator
 
-**Languages:** Portuguese (native), English (beginner/intermediate)
+**Languages:** Portuguese (native), English (intermediate)
 
   ### 📱 Social Midia:
 
