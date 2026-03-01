@@ -8,6 +8,7 @@ Computer Science student and Dev Back-end in Progress.
 
 **Languages:** Portuguese (native), English (beginner/intermediate)
 
+  ### 📱 Social Midia:
 
    <p align="left">
   <a href="https://www.instagram.com/iannvdk">
@@ -17,7 +18,7 @@ Computer Science student and Dev Back-end in Progress.
     <img alt="YouTube" title="YouTube" src="https://custom-icon-badges.demolab.com/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   
-  ### 🧰 Languages and Tools
+  ### 🧰 Languages and Tools:
 
 **Languages & Frameworks**
 <p align="left">
