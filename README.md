@@ -6,7 +6,7 @@ I'm a Computer Science student specializing in Backend Development. I'm passiona
 
 Current Goal: Land my first Backend Development internship to apply my theoretical knowledge in a production environment.
 
-**Extra:** Freelance experience(Development Web) | Content Creator
+**Extra:** Freelance experience(Web Development) | Content Creator
 
 **Languages:** Portuguese (native), English (intermediate)
 
