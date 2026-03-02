@@ -2,8 +2,9 @@
 
 **`Developer & Creator Content`**
 
-I'm Ian Leonardo, a Computer Science student and Software Engineer Student (Back-end specializing in the Java ecosystem).
-I have a polymath profile and enjoy exploring Software Architecture, Cloud Infrastructure (AWS), and Distributed Systems. I always aim to connect different disciplines to create functional, clean, and efficient solutions. My goal is to build high-scale systems prepared for real-world challenges.
+I'm a Computer Science student specializing in Backend Development. I'm passionate about exploring software architecture, building cloud-native solutions with AWS, and designing distributed systems.
+
+Current Goal: Land my first Backend Development internship to apply my theoretical knowledge in a production environment.
 
 **Extra:** Freelance experience(Development Web) | Content Creator
 
